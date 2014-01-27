@@ -1,12 +1,12 @@
 # Grain
 
-Tools like [SaltStack](http://www.saltstack.com/) provide a fantastic way to manage and scale machine configurations. But if you want something simpler for just your local Linux machine, *Grain* is a great alternative without the steep learning curve. 
+Tools like [SaltStack](http://www.saltstack.com/) provide a fantastic way to manage and scale machine configurations. But if you want something simpler for just your local Linux machine, **Grain** is a great alternative without the steep learning curve. 
 
 # Example 
 
     gen_install_script.py mysql 
     
-Where **mysql** is the tool you wish to install and uninstall. 
+Where *mysql* is the tool you wish to install and uninstall. 
 
 ## Output 
 
