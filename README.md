@@ -6,7 +6,7 @@ Tools like [SaltStack](http://www.saltstack.com/) provide a fantastic way to man
 
     gen_install_script.py mysql 
     
-Where `mysql` is the tool you wish to install and uninstall. 
+Where **mysql** is the tool you wish to install and uninstall. 
 
 ## Output 
 
