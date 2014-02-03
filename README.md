@@ -1,6 +1,8 @@
 # Grain
 
-Tools like [SaltStack](http://www.saltstack.com/) provide a fantastic way to manage and scale machine configurations. But if you want something simpler for just your local Linux machine, **Grain** is a great alternative without the steep learning curve. 
+![Grain](https://googledrive.com/host/0B2GEUe-OZRECV3BpNm1fam4tNk0/grain-banner.jpg "Grain")
+
+**Grain** is a simplified [SaltStack](http://www.saltstack.com/) for personal configuration management. It is an alternative without the steep learning curve when you need to manage your local utilities in the simplest way. 
 
 # Example 
 
