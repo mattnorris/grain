@@ -9,7 +9,7 @@
 # Locations 
 ################################################################################
 
-DEF_VERSION=1.5.0
+DEF_VERSION=1.9.2
 SYMLINK=google_appengine
 
 # Local directories
@@ -17,7 +17,7 @@ DOWNLOADS=$HOME/dev/downloads
 SDKS=$HOME/dev/sdks
 
 # Google's remote directory and files 
-GOOGLE_SITE_DIR=http://googleappengine.googlecode.com/files
+GOOGLE_SITE_DIR='https://commondatastorage.googleapis.com/appengine-sdks/featured'
 
 PDIRPREFIX="google_appengine_"
 JDIRPREFIX="appengine-java-sdk-"
