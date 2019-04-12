@@ -1,7 +1,5 @@
 # Grain
 
-![Grain](https://googledrive.com/host/0B2GEUe-OZRECV3BpNm1fam4tNk0/grain-banner.jpg "Grain")
-
 **Grain** is a simplified [SaltStack](http://www.saltstack.com/) for personal configuration management. It is an alternative without the steep learning curve when you need to manage your local utilities in the simplest way. 
 
 # Example 
